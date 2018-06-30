@@ -1,16 +1,15 @@
-# DAT210x
-Programming with Python for Data Science Microsoft
+# DAT210x Programming with Python for Data Science Microsoft
 
-By Authman Apatira
+This is my repository for assignments and solutions for course DAT210x over edx By Authman Apatira
 
-## Current Offering
+## About this repo
 
-If you haven't already, [join the course](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x-4)!
+This is part my learnifng toward ML if you want to know me more sure get connected, [My LinkedIn](https://www.linkedin.com/in/ashishrajsrivastava/)!
 
 <center><img src='Images/py36.png' /></center>
 
 ## Getting Started
-
+this info taken from Main course repo
  * Download and run the [Anaconda 4.3.1 Graphical Installer](https://www.continuum.io/downloads) package for your operating system (Linux, OS/X, or Windows).
 	- [Windows 64 Bit](https://repo.continuum.io/archive/Anaconda3-4.3.1-Windows-x86_64.exe)
 	- [Windows 32 Bit](https://repo.continuum.io/archive/Anaconda3-4.3.1-Windows-x86.exe)
